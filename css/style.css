@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #2d3c49;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    color: #7d97ad;
+    background-color: #7d97ad; 
+}
+
+.logo {
+    max-width: 140px;
+    color: #02b3e4;
+    margin-top: 10px;
+}
+
+a {
+    color: #2d3c49;
+    font-size: 12px;
+}
+
+
+.tilte {
+    margin-top: 30px;
+    font-weight: 300;
+}
+
+.destinations {
+    color: #7d97ad;
+}
+
+.image-title {
+    vertical-align: middle;
+    margin-top: 10px;
+}
